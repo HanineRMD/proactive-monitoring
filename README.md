@@ -66,13 +66,20 @@ main.py → Orchestrateur
 📁 Structure des Fichiers
 
 proactive-monitoring/
+
 ├── src/              # Code Python
+
 ├── dashboard/        # Interface web
+
 ├── data/            # DB + logs + graphiques
+
 ├── main.py          # Point d'entrée
+
 ├── config.yaml      # Configuration
+
 └── requirements.txt # Dépendances
-🔧 Technologies Utilisées
+
+# 🔧 Technologies Utilisées
 Python 3.8+ : Langage principal
 
 psutil : Métriques système
