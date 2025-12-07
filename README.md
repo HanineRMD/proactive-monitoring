@@ -50,15 +50,21 @@ Logs : traçabilité complète
 Export HTML/PNG automatique
 
 🏗️ Architecture Technique
-text
+
 main.py → Orchestrateur
+
 ├── monitor.py → Collecte métriques
+
 ├── auto_healer.py → Actions correctives  
+
 ├── visualizer.py → Génération graphiques
+
 ├── db_manager.py → Base SQLite
+
 └── dashboard/app.py → Interface web
+
 📁 Structure des Fichiers
-text
+
 proactive-monitoring/
 ├── src/              # Code Python
 ├── dashboard/        # Interface web
