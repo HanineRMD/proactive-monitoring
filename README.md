@@ -1,8 +1,13 @@
 Système de Surveillance Proactive
+
+
 🎯 Objectif Principal
+
 Développer une solution complète de monitoring en temps réel avec détection automatique d'anomalies et mécanismes d'auto-réparation pour environnements DevOps.
 
 ✅ Fonctionnalités Implémentées
+
+
 1. Surveillance Automatique ✓
 Monitoring CPU, mémoire, disque toutes les 60s
 
