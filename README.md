@@ -1,7 +1,7 @@
-Système de Surveillance Proactive
+# Système de Surveillance Proactive
 
 
-🎯 Objectif Principal
+## 🎯 Objectif Principal
 
 Développer une solution complète de monitoring en temps réel avec détection automatique d'anomalies et mécanismes d'auto-réparation pour environnements DevOps.
 
@@ -80,31 +80,47 @@ Plotly : Visualisations
 PyYAML : Configuration
 
 🚀 Démarrage Rapide
-bash
+
+
 # 1. Installation
+
 git clone <repo>
+
 cd proactive-monitoring
+
 python -m venv venv
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
 
 # 2. Configuration
+
 # Éditez config.yaml si nécessaire
 
 # 3. Démarrer
+
 python main.py                    # Surveillance
+
 python dashboard/app.py          # Tableau de bord
 
 ![Aperçu du projet](cap/1.png)
 ![                ](cap/2.png)
-📊 Statut Actuel
+
+# 📊 Statut Actuel
+
 ✅ FONCTIONNEL - Système opérationnel sur Windows
+
 ✅ DÉTECTION - 2 anomalies détectées (mémoire/disque)
+
 ✅ VISUALISATION - Graphiques générés dans data/graphs/
+
 ✅ INTERFACE - Dashboard disponible sur http://localhost:5000
 
-🎯 Pour la Présentation
+# 🎯 Pour la Présentation
+
 Démonstration Live :
+
 python main.py → Surveillance en direct
 
 python dashboard/app.py → Ouvrir localhost:5000
@@ -114,6 +130,7 @@ Montrer les logs : type data\logs\monitoring.log
 Afficher les graphiques : start data\graphs\dashboard.html
 
 Points Forts à Montrer :
+
 ✅ Surveillance temps réel
 
 ✅ Détection automatique d'anomalies
@@ -124,7 +141,8 @@ Points Forts à Montrer :
 
 ✅ Architecture modulaire extensible
 
-📈 Résultats Concrets
+# 📈 Résultats Concrets
+
 Métriques collectées : CPU, mémoire, disque, services
 
 Anomalies détectées : Mémoire (52.6% > 50%), Disque (75% > 70%)
@@ -134,6 +152,7 @@ Actions exécutées : Nettoyage fichiers temporaires
 Visualisations : 4 graphiques HTML générés
 
 🔮 Extensions Possibles
+
 Alertes email/Slack
 
 Monitoring réseau
