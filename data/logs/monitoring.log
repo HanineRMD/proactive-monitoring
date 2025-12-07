@@ -1,0 +1,71 @@
+2025-12-04 23:38:02,772 - WARNING - Anomalie détectée: {'type': 'SERVICE', 'level': 'CRITICAL', 'service': 'nginx', 'status': 'INACTIVE'}
+2025-12-04 23:38:02,773 - WARNING - Redémarrage de service non supporté sur Windows pour nginx
+2025-12-04 23:38:02,773 - INFO - Actions: ['Redémarrage service nginx']
+2025-12-04 23:38:02,785 - WARNING - Anomalie détectée: {'type': 'SERVICE', 'level': 'CRITICAL', 'service': 'ssh', 'status': 'INACTIVE'}
+2025-12-04 23:38:02,785 - WARNING - Redémarrage de service non supporté sur Windows pour ssh
+2025-12-04 23:38:02,786 - INFO - Actions: ['Redémarrage service ssh']
+2025-12-04 23:38:02,799 - WARNING - Anomalie détectée: {'type': 'SERVICE', 'level': 'CRITICAL', 'service': 'cron', 'status': 'INACTIVE'}
+2025-12-04 23:38:02,799 - WARNING - Redémarrage de service non supporté sur Windows pour cron
+2025-12-04 23:38:02,799 - INFO - Actions: ['Redémarrage service cron']
+2025-12-04 23:39:03,879 - WARNING - Anomalie détectée: {'type': 'SERVICE', 'level': 'CRITICAL', 'service': 'nginx', 'status': 'INACTIVE'}
+2025-12-04 23:39:03,879 - WARNING - Redémarrage de service non supporté sur Windows pour nginx
+2025-12-04 23:39:03,879 - INFO - Actions: ['Redémarrage service nginx']
+2025-12-04 23:39:03,889 - WARNING - Anomalie détectée: {'type': 'SERVICE', 'level': 'CRITICAL', 'service': 'ssh', 'status': 'INACTIVE'}
+2025-12-04 23:39:03,890 - WARNING - Redémarrage de service non supporté sur Windows pour ssh
+2025-12-04 23:39:03,890 - INFO - Actions: ['Redémarrage service ssh']
+2025-12-04 23:39:03,898 - WARNING - Anomalie détectée: {'type': 'SERVICE', 'level': 'CRITICAL', 'service': 'cron', 'status': 'INACTIVE'}
+2025-12-04 23:39:03,898 - WARNING - Redémarrage de service non supporté sur Windows pour cron
+2025-12-04 23:39:03,898 - INFO - Actions: ['Redémarrage service cron']
+2025-12-04 23:51:23,469 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 52.6, 'threshold': 50}
+2025-12-04 23:51:23,481 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-04 23:53:56,666 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 52.6, 'threshold': 50}
+2025-12-04 23:53:56,678 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-04 23:55:57,824 - WARNING - Anomalie détectée: {'type': 'CPU', 'level': 'WARNING', 'value': 20.1, 'threshold': 20}
+2025-12-04 23:55:57,840 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 52.7, 'threshold': 50}
+2025-12-04 23:55:57,860 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-04 23:57:59,022 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 52.6, 'threshold': 50}
+2025-12-04 23:57:59,043 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:00:00,196 - WARNING - Anomalie détectée: {'type': 'CPU', 'level': 'WARNING', 'value': 22.3, 'threshold': 20}
+2025-12-05 00:00:00,212 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 51.7, 'threshold': 50}
+2025-12-05 00:00:00,229 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:00:09,671 - ERROR - Erreur génération rapports: 'charmap' codec can't encode character '\U0001f4ca' in position 777: character maps to <undefined>
+2025-12-05 00:00:11,190 - ERROR - Erreur génération rapports: 'charmap' codec can't encode character '\U0001f4ca' in position 777: character maps to <undefined>
+2025-12-05 00:02:11,364 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 52.3, 'threshold': 50}
+2025-12-05 00:02:11,385 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:04:12,559 - WARNING - Anomalie détectée: {'type': 'CPU', 'level': 'WARNING', 'value': 21.9, 'threshold': 20}
+2025-12-05 00:04:12,581 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 51.9, 'threshold': 50}
+2025-12-05 00:04:12,599 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:06:13,701 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 52.0, 'threshold': 50}
+2025-12-05 00:06:13,715 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:08:14,866 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 52.0, 'threshold': 50}
+2025-12-05 00:08:14,880 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:10:16,140 - WARNING - Anomalie détectée: {'type': 'CPU', 'level': 'WARNING', 'value': 24.4, 'threshold': 20}
+2025-12-05 00:10:16,169 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 52.2, 'threshold': 50}
+2025-12-05 00:10:16,191 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:12:17,295 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 51.6, 'threshold': 50}
+2025-12-05 00:12:17,309 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:14:18,457 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 51.5, 'threshold': 50}
+2025-12-05 00:14:18,471 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:16:19,618 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 52.4, 'threshold': 50}
+2025-12-05 00:16:19,635 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:18:20,776 - WARNING - Anomalie détectée: {'type': 'CPU', 'level': 'WARNING', 'value': 21.7, 'threshold': 20}
+2025-12-05 00:18:20,789 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 50.8, 'threshold': 50}
+2025-12-05 00:18:20,802 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:20:21,903 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 51.2, 'threshold': 50}
+2025-12-05 00:20:21,914 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:22:23,068 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 50.6, 'threshold': 50}
+2025-12-05 00:22:23,083 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:24:24,377 - WARNING - Anomalie détectée: {'type': 'CPU', 'level': 'WARNING', 'value': 20.6, 'threshold': 20}
+2025-12-05 00:24:24,395 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 51.8, 'threshold': 50}
+2025-12-05 00:24:24,425 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:26:25,534 - WARNING - Anomalie détectée: {'type': 'CPU', 'level': 'CRITICAL', 'value': 59.9, 'threshold': 30}
+2025-12-05 00:26:27,455 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 52.0, 'threshold': 50}
+2025-12-05 00:26:27,469 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:28:28,662 - WARNING - Anomalie détectée: {'type': 'CPU', 'level': 'CRITICAL', 'value': 48.6, 'threshold': 30}
+2025-12-05 00:28:31,255 - INFO - Actions: ['Arrêt processus CPU intensifs: vmware-vmx.exe']
+2025-12-05 00:28:31,268 - WARNING - Anomalie détectée: {'type': 'MEMORY', 'level': 'WARNING', 'value': 52.9, 'threshold': 50}
+2025-12-05 00:28:31,286 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:30:32,470 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:32:33,665 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:34:34,883 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}
+2025-12-05 00:36:36,046 - WARNING - Anomalie détectée: {'type': 'DISK', 'level': 'WARNING', 'value': 75.0, 'threshold': 70}

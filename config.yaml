@@ -1,0 +1,25 @@
+# Configuration optimisée pour Windows
+services:
+  - explorer.exe
+  - svchost.exe
+  - SearchIndexer.exe
+  - System
+thresholds:
+  cpu_warning: 20        # Baissé pour déclencher une alerte
+  cpu_critical: 30
+  memory_warning: 50     # Votre mémoire est à 52.3%
+  memory_critical: 60
+  disk_warning: 70       # Votre disque est à 75% - devrait déclencher
+  disk_critical: 80
+
+monitoring_interval: 120
+
+database:
+  path: "data/monitoring.db"
+  log_path: "data/logs/monitoring.log"
+
+auto_actions:
+  enabled: true
+  restart_service: false
+  clear_temp_files: true
+  notify: false
